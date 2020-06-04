@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jason\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jason\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Custom-Inspector.-1993993234.00" t="ExcludeRecursive" />
+    <e p="D:\Workspaces\Git\Custom-Inspector" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="DifferentTypesEditor.cs" t="Include" />
+          <e p="PropertyListEditor.cs" t="Include" />
+          <e p="PropertyListSerializedEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="DifferentTypes.cs" t="Include" />
+          <e p="PropertyList.cs" t="Include" />
+          <e p="PropertyListSerialized.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Custom-Inspector.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
