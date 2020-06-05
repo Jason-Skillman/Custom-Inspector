@@ -22,8 +22,8 @@ public class PropertyListSerializedEditor : Editor {
 
 		//Draw the fields
 		EditorGUILayout.LabelField("Header", EditorStyles.boldLabel);
-		EditorGUILayout.PropertyField(myInt);
 		EditorGUILayout.PropertyField(myString);
+		EditorGUILayout.PropertyField(myInt);
 
 		//End
 		serializedObject.ApplyModifiedProperties();

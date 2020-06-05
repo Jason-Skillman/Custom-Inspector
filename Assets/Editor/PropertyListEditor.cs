@@ -9,8 +9,7 @@ public class PropertyListEditor : Editor {
 	private string myString;
 
 	private void OnEnable() {
-		//myInt = serializedObject.FindProperty("myInt");
-		//myString = serializedObject.FindProperty("myString");
+		
 	}
 
 	public override void OnInspectorGUI() {

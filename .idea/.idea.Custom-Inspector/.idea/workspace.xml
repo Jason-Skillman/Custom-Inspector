@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e744029-cf49-4750-890e-83fe82da14c8" name="Default Changelist" comment="" />
+    <list default="true" id="6e744029-cf49-4750-890e-83fe82da14c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,31 +14,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PropertyList.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
-                <marker date="1591300878699" expanded="true" signature="64:213" ph="{...}" />
+                <marker date="1591297592813" expanded="true" signature="62:114" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Editor/DifferentTypesEditor.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="69" column="77" lean-forward="true" selection-start-line="69" selection-start-column="77" selection-end-line="69" selection-end-column="77" />
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding>
-                <marker date="1591300828356" expanded="true" signature="6:37" ph="..." />
-                <marker date="1591300828356" expanded="true" signature="121:2252" ph="{...}" />
-                <marker date="1591300828356" expanded="true" signature="293:341" ph="{...}" />
-                <marker date="1591300828356" expanded="true" signature="368:702" ph="{...}" />
-                <marker date="1591300828356" expanded="true" signature="743:2248" ph="{...}" />
-                <marker date="1591300828356" expanded="true" signature="1219:1409" ph="{...}" />
+                <marker date="1591382343172" expanded="true" signature="6:37" ph="..." />
+                <marker date="1591382343172" expanded="true" signature="117:814" ph="{...}" />
+                <marker date="1591382343172" expanded="true" signature="231:238" ph="{...}" />
+                <marker date="1591382343172" expanded="true" signature="279:811" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -42,13 +45,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="46" />
+            <state relative-caret-position="375">
+              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
               <folding>
-                <marker date="1591299679907" expanded="true" signature="6:111" ph="..." />
-                <marker date="1591299679907" expanded="true" signature="211:783" ph="{...}" />
-                <marker date="1591299679907" expanded="true" signature="331:473" ph="{...}" />
-                <marker date="1591299679907" expanded="true" signature="514:780" ph="{...}" />
+                <marker date="1591381724353" expanded="true" signature="6:111" ph="..." />
+                <marker date="1591381724353" expanded="true" signature="211:783" ph="{...}" />
+                <marker date="1591381724353" expanded="true" signature="331:473" ph="{...}" />
+                <marker date="1591381724353" expanded="true" signature="514:780" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/DifferentTypesEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="69" column="77" selection-start-line="69" selection-start-column="77" selection-end-line="69" selection-end-column="77" />
+              <folding>
+                <marker date="1591300828356" expanded="true" signature="6:37" ph="..." />
+                <marker date="1591300828356" expanded="true" signature="121:2252" ph="{...}" />
+                <marker date="1591300828356" expanded="true" signature="293:341" ph="{...}" />
+                <marker date="1591300828356" expanded="true" signature="368:702" ph="{...}" />
+                <marker date="1591300828356" expanded="true" signature="743:2248" ph="{...}" />
+                <marker date="1591300828356" expanded="true" signature="1219:1409" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -74,10 +94,10 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PropertyListSerialized.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PropertyList.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/DifferentTypesEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" />
       </list>
     </option>
   </component>
@@ -89,20 +109,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-1080" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="205" />
+    <option name="y" value="-954" />
+    <option name="width" value="1554" />
+    <option name="height" value="783" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
-      </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -152,7 +170,10 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,11 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1591297051046</updated>
       <workItem from="1591297057114" duration="4001000" />
+      <workItem from="1591380971143" duration="1372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4001000" />
+    <option name="totallyTimeSpent" value="5373000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,20 +241,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-1088" width="1936" height="1056" extended-state="6" />
+    <frame x="205" y="-954" width="1554" height="783" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1981886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20080322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -240,12 +253,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,16 +286,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PropertyList.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <marker date="1591297592813" expanded="true" signature="62:114" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Dialogue-Manager/Assets/DialogueManager/Editor/DialogueManagerEditor.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -284,16 +296,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="69" selection-start-line="19" selection-start-column="8" selection-end-line="26" selection-end-column="69" />
+        <state relative-caret-position="90">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding>
-            <marker date="1591299259305" expanded="true" signature="6:37" ph="..." />
-            <marker date="1591299259305" expanded="true" signature="117:921" ph="{...}" />
-            <marker date="1591299259305" expanded="true" signature="231:345" ph="{...}" />
-            <marker date="1591299259305" expanded="true" signature="235:342" ph="/* myInt = serializedObject.FindProperty(&quot;myInt&quot;); ... */" />
-            <marker date="1591299259305" expanded="true" signature="386:918" ph="{...}" />
+            <marker date="1591300878699" expanded="true" signature="64:213" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -309,33 +317,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PropertyList.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="46" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
-            <marker date="1591299679907" expanded="true" signature="6:111" ph="..." />
-            <marker date="1591299679907" expanded="true" signature="211:783" ph="{...}" />
-            <marker date="1591299679907" expanded="true" signature="331:473" ph="{...}" />
-            <marker date="1591299679907" expanded="true" signature="514:780" ph="{...}" />
+            <marker date="1591297592813" expanded="true" signature="62:114" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="375">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
           <folding>
-            <marker date="1591300878699" expanded="true" signature="64:213" ph="{...}" />
+            <marker date="1591381724353" expanded="true" signature="6:111" ph="..." />
+            <marker date="1591381724353" expanded="true" signature="211:783" ph="{...}" />
+            <marker date="1591381724353" expanded="true" signature="331:473" ph="{...}" />
+            <marker date="1591381724353" expanded="true" signature="514:780" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Editor/DifferentTypesEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="69" column="77" lean-forward="true" selection-start-line="69" selection-start-column="77" selection-end-line="69" selection-end-column="77" />
+        <state relative-caret-position="410">
+          <caret line="69" column="77" selection-start-line="69" selection-start-column="77" selection-end-line="69" selection-end-column="77" />
           <folding>
             <marker date="1591300828356" expanded="true" signature="6:37" ph="..." />
             <marker date="1591300828356" expanded="true" signature="121:2252" ph="{...}" />
@@ -343,6 +351,19 @@
             <marker date="1591300828356" expanded="true" signature="368:702" ph="{...}" />
             <marker date="1591300828356" expanded="true" signature="743:2248" ph="{...}" />
             <marker date="1591300828356" expanded="true" signature="1219:1409" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <marker date="1591382343172" expanded="true" signature="6:37" ph="..." />
+            <marker date="1591382343172" expanded="true" signature="117:814" ph="{...}" />
+            <marker date="1591382343172" expanded="true" signature="231:238" ph="{...}" />
+            <marker date="1591382343172" expanded="true" signature="279:811" ph="{...}" />
           </folding>
         </state>
       </provider>
