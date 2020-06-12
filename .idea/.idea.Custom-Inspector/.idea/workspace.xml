@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6e744029-cf49-4750-890e-83fe82da14c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Duplicate.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Duplicate.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+            <state relative-caret-position="210">
+              <caret line="38" column="34" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="34" />
               <folding>
                 <marker date="1591906943492" expanded="true" signature="6:51" ph="..." />
                 <marker date="1591906943492" expanded="true" signature="95:1466" ph="{...}" />
@@ -34,21 +34,87 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+              <folding>
+                <marker date="1591985699129" expanded="false" signature="6:51" ph="..." />
+                <marker date="1591985699129" expanded="true" signature="104:415" ph="{...}" />
+                <marker date="1591985699129" expanded="true" signature="147:279" ph="{...}" />
+                <marker date="1591985699129" expanded="true" signature="303:412" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/ExtendedEditorWindow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+              <folding>
+                <marker date="1591983654879" expanded="true" signature="6:51" ph="..." />
+                <marker date="1591983654879" expanded="true" signature="102:973" ph="{...}" />
+                <marker date="1591983654879" expanded="true" signature="278:970" ph="{...}" />
+                <marker date="1591983654879" expanded="true" signature="368:967" ph="{...}" />
+                <marker date="1591983654879" expanded="true" signature="446:963" ph="{...}" />
+                <marker date="1591983654879" expanded="true" signature="628:734" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Treasure.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="39" />
+              <folding>
+                <marker date="1591983940109" expanded="true" signature="6:66" ph="..." />
+                <marker date="1591983940109" expanded="true" signature="192:253" ph="{...}" />
+                <marker date="1591983940109" expanded="true" signature="297:396" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <marker date="1591984150783" expanded="true" signature="6:37" ph="..." />
+                <marker date="1591984150783" expanded="true" signature="109:244" ph="{...}" />
+                <marker date="1591984150783" expanded="true" signature="151:241" ph="{...}" />
+                <marker date="1591984150783" expanded="true" signature="191:238" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Dialogue-Manager/Assets/DialogueManager/Editor/DialogueManagerEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Treasure.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PropertyList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/DifferentTypesEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PropertyListSerialized.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Dialogue-Manager/Assets/DialogueManager/Editor/DialogueManagerEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/DifferentTypesEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ExtendedEditorWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PropertyListSerialized.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Senior-Project/Assets/Scripts/Monsters/ResistanceData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Dialogue-Manager/Assets/DialogueManager/Editor/DialogueScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/TreasureEditor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,6 +126,11 @@
         <option value="$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/UtilityToolWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/ExtendedEditorWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Treasure.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/TreasureEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs" />
       </list>
     </option>
   </component>
@@ -73,24 +144,69 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="205" />
-    <option name="y" value="-954" />
+    <option name="y" value="-987" />
     <option name="width" value="1554" />
-    <option name="height" value="783" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Scripts" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp-Editor" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp-Editor" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp-Editor" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Editor" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,10 +238,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="20512">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="20512" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -143,11 +259,12 @@
       <workItem from="1591297057114" duration="4001000" />
       <workItem from="1591380971143" duration="1372000" />
       <workItem from="1591904659907" duration="2525000" />
+      <workItem from="1591981947884" duration="4402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7898000" />
+    <option name="totallyTimeSpent" value="12300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,15 +276,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="205" y="-954" width="1554" height="783" extended-state="0" />
+    <frame x="205" y="-987" width="1554" height="816" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20348059" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20615797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -286,10 +403,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Senior-Project/Assets/Scripts/Monsters/ResistanceData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/ExtendedEditorWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+          <folding>
+            <marker date="1591983654879" expanded="true" signature="6:51" ph="..." />
+            <marker date="1591983654879" expanded="true" signature="102:973" ph="{...}" />
+            <marker date="1591983654879" expanded="true" signature="278:970" ph="{...}" />
+            <marker date="1591983654879" expanded="true" signature="368:967" ph="{...}" />
+            <marker date="1591983654879" expanded="true" signature="446:963" ph="{...}" />
+            <marker date="1591983654879" expanded="true" signature="628:734" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Treasure.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <marker date="1591983940109" expanded="true" signature="6:66" ph="..." />
+            <marker date="1591983940109" expanded="true" signature="192:253" ph="{...}" />
+            <marker date="1591983940109" expanded="true" signature="297:396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1591984150783" expanded="true" signature="6:37" ph="..." />
+            <marker date="1591984150783" expanded="true" signature="109:244" ph="{...}" />
+            <marker date="1591984150783" expanded="true" signature="151:241" ph="{...}" />
+            <marker date="1591984150783" expanded="true" signature="191:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <folding>
+            <marker date="1591985699129" expanded="false" signature="6:51" ph="..." />
+            <marker date="1591985699129" expanded="true" signature="104:415" ph="{...}" />
+            <marker date="1591985699129" expanded="true" signature="147:279" ph="{...}" />
+            <marker date="1591985699129" expanded="true" signature="303:412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+        <state relative-caret-position="210">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="34" />
           <folding>
             <marker date="1591906943492" expanded="true" signature="6:51" ph="..." />
             <marker date="1591906943492" expanded="true" signature="95:1466" ph="{...}" />
