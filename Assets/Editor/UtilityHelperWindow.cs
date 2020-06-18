@@ -5,6 +5,9 @@ using UnityEngine;
 
 public class UtilityHelperWindow : EditorWindow {
 
+	private static UtilityHelperWindow utilityHelperWindow;
+	private SerializedObject serializedObject;
+
 	private PanelType panelType;
 
 	private int xAmount = 2, zAmount = 2;
@@ -22,11 +25,11 @@ public class UtilityHelperWindow : EditorWindow {
 
 	[MenuItem("Window/Utility Helper")]
 	public static void ShowWindow() {
-		GetWindow<UtilityHelperWindow>("Utility Helper");
+		utilityHelperWindow = GetWindow<UtilityHelperWindow>("Utility Helper");
 	}
-	
-	private void OnDisable() {
-		focus = false;
+
+	private void Awake() {
+		//serializedObject = new SerializedObject(utilityHelperWindow);
 	}
 
 	private void Update() {
@@ -114,13 +117,32 @@ public class UtilityHelperWindow : EditorWindow {
 
 	private void GUIDropDown() {
 		GUILayout.Label("Drop Down", EditorStyles.boldLabel);
-		
-		objectToDrop = EditorGUILayout.PropertyField(obje)
 
-		if(GUILayout.Button("Drop")) {
-			foreach(GameObject selectedObj in Selection.gameObjects) {
-				Debug.Log(selectedObj.name);
-			}
+		
+		string objectName = string.Empty;
+		if(objectToDrop != null)
+			objectName = objectToDrop.name;
+		
+		GUILayout.Label("Set object to drop: " + objectName);
+		
+		if(GUILayout.Button("Set Object")) {
+			objectToDrop = Selection.activeGameObject;
 		}
+
+		
+		EditorGUILayout.Space();
+		if(objectToDrop == null)
+			EditorGUI.BeginDisabledGroup(true);
+		
+		if(GUILayout.Button("Drop")) {
+			Vector3 pos = new Vector3(objectToDrop.transform.position.x,
+				Selection.activeGameObject.transform.position.y,
+				objectToDrop.transform.position.z);
+			objectToDrop.transform.position = pos;
+		}
+		
+		if(objectToDrop == null)
+			EditorGUI.EndDisabledGroup();
 	}
+
 }

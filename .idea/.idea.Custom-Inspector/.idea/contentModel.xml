@@ -20,6 +20,8 @@
           <e p="DifferentTypes.cs" t="Include" />
           <e p="PropertyList.cs" t="Include" />
           <e p="PropertyListSerialized.cs" t="Include" />
+          <e p="Room.cs" t="Include" />
+          <e p="RoomEditor.cs" t="Include" />
           <e p="Treasure.cs" t="Include" />
         </e>
       </e>
