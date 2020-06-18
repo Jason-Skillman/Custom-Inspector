@@ -9,12 +9,12 @@
       <e p="Assets" t="Include">
         <e p="Editor" t="Include">
           <e p="DifferentTypesEditor.cs" t="Include" />
-          <e p="ExampleWindow.cs" t="Include" />
           <e p="ExtendedEditorWindow.cs" t="Include" />
           <e p="PropertyListEditor.cs" t="Include" />
           <e p="PropertyListSerializedEditor.cs" t="Include" />
           <e p="TreasureEditor.cs" t="Include" />
           <e p="TreasureWindow.cs" t="Include" />
+          <e p="UtilityHelperWindow.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="DifferentTypes.cs" t="Include" />

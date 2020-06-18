@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e744029-cf49-4750-890e-83fe82da14c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/UtilityHelperWindow.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Custom-Inspector/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/UtilityHelperWindow.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Duplicate.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Duplicate.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +19,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/UtilityHelperWindow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="38" column="34" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="117" column="57" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
               <folding>
-                <marker date="1591906943492" expanded="true" signature="6:51" ph="..." />
-                <marker date="1591906943492" expanded="true" signature="95:1466" ph="{...}" />
-                <marker date="1591906943492" expanded="true" signature="271:314" ph="{...}" />
-                <marker date="1591906943492" expanded="true" signature="338:1463" ph="{...}" />
-                <marker date="1591906943492" expanded="true" signature="493:534" ph="{...}" />
-                <marker date="1591906943492" expanded="true" signature="911:1460" ph="{...}" />
-                <marker date="1591906943492" expanded="true" signature="1017:1455" ph="{...}" />
-                <marker date="1591906943492" expanded="true" signature="1057:1440" ph="{...}" />
-                <marker date="1591906943492" expanded="true" signature="1097:1434" ph="{...}" />
+                <marker date="1592516036287" expanded="false" signature="6:77" ph="..." />
+                <marker date="1592516036287" expanded="true" signature="127:3056" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="325:368" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="440:496" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="525:546" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="571:681" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="585:678" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="705:1622" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="933:1003" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="1044:1112" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="1152:1219" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="1391:1417" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="1460:1480" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="1522:1545" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="1655:2531" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="1997:2528" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="2103:2524" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="2143:2519" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="2183:2513" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="2559:2770" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="2800:3054" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="2946:3051" ph="{...}" />
+                <marker date="1592516036287" expanded="true" signature="3008:3047" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="105">
               <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
               <folding>
                 <marker date="1591985699129" expanded="false" signature="6:51" ph="..." />
@@ -52,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/ExtendedEditorWindow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="345">
               <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
               <folding>
                 <marker date="1591983654879" expanded="true" signature="6:51" ph="..." />
@@ -69,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Treasure.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="75">
               <caret line="8" column="39" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="39" />
               <folding>
                 <marker date="1591983940109" expanded="true" signature="6:66" ph="..." />
@@ -83,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureEditor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="75">
               <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
                 <marker date="1591984150783" expanded="true" signature="6:37" ph="..." />
@@ -103,7 +121,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Treasure.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PropertyList.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/UtilityHelperWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Dialogue-Manager/Assets/DialogueManager/Editor/DialogueManagerEditor.cs" root0="SKIP_HIGHLIGHTING" />
@@ -125,12 +143,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DifferentTypes.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/PropertyListSerializedEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/PropertyListEditor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/UtilityToolWindow.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/ExtendedEditorWindow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Treasure.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/TreasureEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/UtilityHelperWindow.cs" />
       </list>
     </option>
   </component>
@@ -142,11 +161,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="205" />
-    <option name="y" value="-987" />
-    <option name="width" value="1554" />
-    <option name="height" value="816" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="127" />
+    <option name="width" value="1440" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -154,59 +173,14 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
       <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Scripts" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assembly-CSharp-Editor" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assembly-CSharp-Editor" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Custom-Inspector" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assembly-CSharp-Editor" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Editor" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,11 +234,13 @@
       <workItem from="1591380971143" duration="1372000" />
       <workItem from="1591904659907" duration="2525000" />
       <workItem from="1591981947884" duration="4402000" />
+      <workItem from="1592511747796" duration="1924000" />
+      <workItem from="1592514293291" duration="2197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12300000" />
+    <option name="totallyTimeSpent" value="16421000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,9 +252,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="205" y="-987" width="1554" height="816" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20615797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2334004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -410,9 +387,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/UtilityHelperWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="117" column="57" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
+          <folding>
+            <marker date="1592516036287" expanded="false" signature="6:77" ph="..." />
+            <marker date="1592516036287" expanded="true" signature="127:3056" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="325:368" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="440:496" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="525:546" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="571:681" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="585:678" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="705:1622" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="933:1003" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="1044:1112" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="1152:1219" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="1391:1417" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="1460:1480" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="1522:1545" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="1655:2531" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="1997:2528" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="2103:2524" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="2143:2519" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="2183:2513" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="2559:2770" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="2800:3054" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="2946:3051" ph="{...}" />
+            <marker date="1592516036287" expanded="true" signature="3008:3047" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <folding>
+            <marker date="1591985699129" expanded="false" signature="6:51" ph="..." />
+            <marker date="1591985699129" expanded="true" signature="104:415" ph="{...}" />
+            <marker date="1591985699129" expanded="true" signature="147:279" ph="{...}" />
+            <marker date="1591985699129" expanded="true" signature="303:412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Editor/ExtendedEditorWindow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="345">
           <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
           <folding>
             <marker date="1591983654879" expanded="true" signature="6:51" ph="..." />
@@ -427,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Treasure.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="75">
           <caret line="8" column="39" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="39" />
           <folding>
             <marker date="1591983940109" expanded="true" signature="6:66" ph="..." />
@@ -439,44 +461,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureEditor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="75">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
             <marker date="1591984150783" expanded="true" signature="6:37" ph="..." />
             <marker date="1591984150783" expanded="true" signature="109:244" ph="{...}" />
             <marker date="1591984150783" expanded="true" signature="151:241" ph="{...}" />
             <marker date="1591984150783" expanded="true" signature="191:238" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/TreasureWindow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="72" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
-          <folding>
-            <marker date="1591985699129" expanded="false" signature="6:51" ph="..." />
-            <marker date="1591985699129" expanded="true" signature="104:415" ph="{...}" />
-            <marker date="1591985699129" expanded="true" signature="147:279" ph="{...}" />
-            <marker date="1591985699129" expanded="true" signature="303:412" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Editor/ExampleWindow.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="38" column="34" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="34" />
-          <folding>
-            <marker date="1591906943492" expanded="true" signature="6:51" ph="..." />
-            <marker date="1591906943492" expanded="true" signature="95:1466" ph="{...}" />
-            <marker date="1591906943492" expanded="true" signature="271:314" ph="{...}" />
-            <marker date="1591906943492" expanded="true" signature="338:1463" ph="{...}" />
-            <marker date="1591906943492" expanded="true" signature="493:534" ph="{...}" />
-            <marker date="1591906943492" expanded="true" signature="911:1460" ph="{...}" />
-            <marker date="1591906943492" expanded="true" signature="1017:1455" ph="{...}" />
-            <marker date="1591906943492" expanded="true" signature="1057:1440" ph="{...}" />
-            <marker date="1591906943492" expanded="true" signature="1097:1434" ph="{...}" />
           </folding>
         </state>
       </provider>
