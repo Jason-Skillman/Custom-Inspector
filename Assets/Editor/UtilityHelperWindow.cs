@@ -20,7 +20,8 @@ public class UtilityHelperWindow : EditorWindow {
 	private enum PanelType {
 		Duplication,
 		FocusMode,
-		DropDown
+		DropDown,
+		SnapHandle
 	}
 
 	[MenuItem("Window/Utility Helper")]
@@ -55,6 +56,9 @@ public class UtilityHelperWindow : EditorWindow {
 		} else if(GUILayout.Button("Drop Down")) {
 			panelType = PanelType.DropDown;
 			GUI.FocusControl(null);
+		} else if(GUILayout.Button("Snap Handle")) {
+			panelType = PanelType.SnapHandle;
+			GUI.FocusControl(null);
 		}
 		
 		EditorGUILayout.EndVertical();
@@ -69,13 +73,15 @@ public class UtilityHelperWindow : EditorWindow {
 			GUIFocus();
 		} else if(panelType == PanelType.DropDown) {
 			GUIDropDown();
+		} else if(panelType == PanelType.SnapHandle) {
+			GUISnapHandle();
 		}
 		
 		EditorGUILayout.EndVertical();
 		
 		EditorGUILayout.EndHorizontal();
 	}
-
+	
 	private void GUIDuplication() {
 		GUILayout.Label("Duplication", EditorStyles.boldLabel);
 		
@@ -143,6 +149,11 @@ public class UtilityHelperWindow : EditorWindow {
 		
 		if(objectToDrop == null)
 			EditorGUI.EndDisabledGroup();
+	}
+
+	private void GUISnapHandle() {
+		GUILayout.Label("Snap Handle", EditorStyles.boldLabel);
+		
 	}
 
 }

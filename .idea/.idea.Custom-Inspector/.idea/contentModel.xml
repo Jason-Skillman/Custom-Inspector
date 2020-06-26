@@ -10,19 +10,30 @@
         <e p="Editor" t="Include">
           <e p="DifferentTypesEditor.cs" t="Include" />
           <e p="ExtendedEditorWindow.cs" t="Include" />
+          <e p="FloorEditor.cs" t="Include" />
           <e p="PropertyListEditor.cs" t="Include" />
           <e p="PropertyListSerializedEditor.cs" t="Include" />
+          <e p="RoomEditor.cs" t="Include" />
           <e p="TreasureEditor.cs" t="Include" />
           <e p="TreasureWindow.cs" t="Include" />
           <e p="UtilityHelperWindow.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="DifferentTypes.cs" t="Include" />
+          <e p="Handles" t="Include">
+            <e p="Floor.cs" t="Include" />
+            <e p="HandlesMaterials.cs" t="Include" />
+            <e p="SnapHandleEditor.cs" t="Include" />
+          </e>
           <e p="PropertyList.cs" t="Include" />
           <e p="PropertyListSerialized.cs" t="Include" />
           <e p="Room.cs" t="Include" />
-          <e p="RoomEditor.cs" t="Include" />
           <e p="Treasure.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="OverlayColorHandle.shader" t="Include" />
+          <e p="TexturedHandle.shader" t="Include" />
+          <e p="VertexColorHandle.shader" t="Include" />
         </e>
       </e>
       <e p="Custom-Inspector.sln" t="IncludeFlat" />
