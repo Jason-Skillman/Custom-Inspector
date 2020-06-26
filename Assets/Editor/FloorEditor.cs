@@ -24,14 +24,14 @@ public class FloorEditor : Editor {
 	}*/
 	
 	private enum Direction {
-		west,
-		east,
-		north,
-		south,
-		none
+		West,
+		East,
+		North,
+		South,
+		None
 	}
 	
-	private Direction selectedDirection = Direction.none;
+	private Direction selectedDirection = Direction.None;
 
 	private void OnEnable() {
 		floor = target as Floor;
