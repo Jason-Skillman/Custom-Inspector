@@ -6,6 +6,7 @@ using UnityEngine;
 public class UtilityHelperWindow : EditorWindow {
 
 	private static UtilityHelperWindow utilityHelperWindow;
+	
 	private SerializedObject serializedObject;
 
 	private PanelType panelType;
